@@ -1,0 +1,9 @@
+[1202/204536.703:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1208/210553.489:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1215/202520.566:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[1215/204131.946:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[1215/204131.950:ERROR:process_reader_win.cc(123)] NtOpenThread: Foi especificado um identificador de cliente inválido. (0xc000000b)
+[1215/204131.953:ERROR:exception_snapshot_win.cc(99)] thread ID 9164 not found in process
+[1215/204131.968:ERROR:process_reader_win.cc(151)] SuspendThread: Acesso negado. (0x5)
+[0105/211138.338:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
+[0106/201234.533:ERROR:directory_reader_win.cc(43)] FindFirstFile: O sistema não pode encontrar o caminho especificado. (0x3)
